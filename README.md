@@ -4,12 +4,12 @@ Este pequeño proyecto constituye la primera práctica de la asignatura Tipolog�
 Mi objetivo con esta práctica es a través de herramientas de Web scraping con Python obtener un dataset en formato CSV de los animales de compañia en adopción que hay en el CAACB (Centre d'Acollida d'Animals de Companyia de Barcelona), a partir de ahora me referiré al dataset como "ShelterAnimals.csv", en este dataset hay información del nombre tipo de animal tamaño y la referencia. 
 Para obtener esta información utilizaré la web del Ayuntamiento de Barcelona, en ella hay disponible una ficha para cada uno de los animales que se encuentran actualmente en el refugio pendientes de una Adopción.
 ## Índice
-* [información General y contenido del repositorio](#información General y contenido del repositorio)
+* [Información General y contenido del repositorio](#Información General y contenido del repositorio)
 * [Tecnologías](#Tecnologías)
 * [Setup](#setup)
 * [Características](#Características)
 * [Estado del proyecto](#Estado del proyecto)
-* [Inspiracion](#Inspiración y recursos)
+* [Inspiración y recursos](#Inspiración y recursos)
 * [Contacto y agradecimientos](#Contacto y agradecimientos)
 
 ## Información General y contenido del Repositorio 
@@ -46,11 +46,11 @@ En este repositorio encontrarás:
 
 ## Inspiración y recursos
 
-https://github.com/rafoelhonrado/foodPriceScraper
-https://github.com/tteguayco/Web-scraping
-Richard Lawson. Web Scraping with Python. Packt Publishing Ltd, 2015. 174 p. ISBN 9781782164371
-https://www.youtube.com/watch?v=Xjv1sY630Uc
-Revisión de información oficial en selenium https://www.selenium.dev/documentation/en/  y https://selenium-python.readthedocs.io/
+* https://github.com/rafoelhonrado/foodPriceScraper
+* https://github.com/tteguayco/Web-scraping
+* Richard Lawson. Web Scraping with Python. Packt Publishing Ltd, 2015. 174 p. ISBN 9781782164371
+* https://www.youtube.com/watch?v=Xjv1sY630Uc
+* Revisión de información oficial en selenium https://www.selenium.dev/documentation/en/  y https://selenium-python.readthedocs.io/
 
 ## Contacto y agradecimientos
 
