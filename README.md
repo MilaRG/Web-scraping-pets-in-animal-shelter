@@ -12,7 +12,7 @@ Para obtener esta información utilizaré la web del Ayuntamiento de Barcelona, 
 * [Inspiración y recursos](#Inspiración y recursos)
 * [Contacto y agradecimientos](#Contacto y agradecimientos)
 
-## Información General y contenido del Repositorio 
+## Información General y contenido del repositorio 
 
 Proyecto de Webscraping para obtener datos de los animales que se encuentran en adopción en el Centre d'Acollida d'Animals de Companyia de Barcelona. 
 En este repositorio encontrarás: 
