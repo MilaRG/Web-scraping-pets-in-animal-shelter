@@ -40,9 +40,8 @@ En este repositorio encontrarás:
 
 ## Estado del proyecto
 
-* En progreso. 
 * Primera iteración finalizada, los datos regogidoa a fecha 16.10.2020 se pueden consultar en https://doi.org/10.5281/zenodo.4263443 (DOI: 10.5281/zenodo.4263443)
-* Tengo intención de continuar el proyecto en mi tiempo libre, añadiendo información de otros refugios.
+* Segunda iteración en progreso, consultar la Wiki para más información al respecto.
 
 ## Inspiración y recursos
 
