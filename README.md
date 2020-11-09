@@ -4,13 +4,13 @@ Este pequeño proyecto constituye la primera práctica de la asignatura Tipolog�
 Mi objetivo con esta práctica es a través de herramientas de Web scraping con Python obtener un dataset en formato CSV de los animales de compañia en adopción que hay en el CAACB (Centre d'Acollida d'Animals de Companyia de Barcelona), a partir de ahora me referiré al dataset como "ShelterAnimals.csv", en este dataset hay información del nombre tipo de animal tamaño y la referencia. 
 Para obtener esta información utilizaré la web del Ayuntamiento de Barcelona, en ella hay disponible una ficha para cada uno de los animales que se encuentran actualmente en el refugio pendientes de una Adopción.
 ## Índice
-* [Información General y contenido del repositorio](#Información General y contenido del repositorio)
+* [Información General y contenido del repositorio](#Información-General-y-contenido-del-repositorio)
 * [Tecnologías](#Tecnologías)
 * [Setup](#setup)
 * [Características](#Características)
-* [Estado del proyecto](#Estado del proyecto)
-* [Inspiración y recursos](#Inspiración y recursos)
-* [Contacto y agradecimientos](#Contacto y agradecimientos)
+* [Estado del proyecto](#Estado-del-proyecto)
+* [Inspiración y recursos](#Inspiración-y-recursos)
+* [Contacto y agradecimientos](#Contacto-y-agradecimientos)
 
 ## Información General y contenido del repositorio 
 
@@ -55,4 +55,5 @@ En este repositorio encontrarás:
 ## Contacto y agradecimientos
 
 Agradecimiento a los propietarios de los datos CAACB y a todos los que colaboran y forman parte de la organización. 
+
 También puedes encontrarme aquí [@MilaRG](https://www.linkedin.com/in/mila-ram%C3%ADrez-guevara-78636585/)
