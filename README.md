@@ -55,4 +55,4 @@ En este repositorio encontrarás:
 
 Agradecimiento a los propietarios de los datos CAACB y a todos los que colaboran y forman parte de la organización. 
 
-También puedes encontrarme aquí [@MilaRG](https://www.linkedin.com/in/mila-ram%C3%ADrez-guevara-78636585/)
+Este proyecto ha sido creado por Milagros Ramírez Guevara, estudiante del master de ciencia de datos en la UOC. También puedes encontrarme aquí [@MilaRG](https://www.linkedin.com/in/mila-ram%C3%ADrez-guevara-78636585/)
