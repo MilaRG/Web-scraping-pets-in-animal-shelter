@@ -15,7 +15,7 @@ To get all this data. I will be using the website from Ayuntamiento de Barcelona
 * [Characteristics](#Characteristics)
 * [Current Status](#Current-Status)
 * [Inspiration and resources](#Inspiration-and-resources)
-* [Contact and acknowledgments](#Contact-and-acknowledgment)
+* [Contact and acknowledgments](#Contact-and-acknowledgments)
 
 ## General information and content of the repository 
 
